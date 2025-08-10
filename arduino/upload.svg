@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="upload.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.42197102"
+     inkscape:cx="-341.25566"
+     inkscape:cy="613.78622"
+     inkscape:window-width="1712"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="361"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-2-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-2-4-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-6-1-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'.SF NS Mono';-inkscape-font-specification:'.SF NS Mono, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#11ae18;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+       x="42"
+       y="49"
+       id="text2"
+       inkscape:export-filename="upload_process.png"
+       inkscape:export-xdpi="101.6"
+       inkscape:export-ydpi="101.6"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none"
+         x="42"
+         y="49">sketch</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none"
+         x="42"
+         y="53.409714"
+         id="tspan3">(.ino file)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'.SF NS Mono';-inkscape-font-specification:'.SF NS Mono, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#11ae18;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+       x="42"
+       y="79"
+       id="text2-7"><tspan
+         sodipodi:role="line"
+         id="tspan2-0"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none"
+         x="42"
+         y="79">program</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none"
+         x="42"
+         y="83.409714"
+         id="tspan3-1">(.cpp file)</tspan></text>
+    <rect
+       style="fill:none;stroke:#1175cc;stroke-width:0.367733;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-0"
+       width="35"
+       height="17"
+       x="25"
+       y="102.11665" />
+    <rect
+       style="fill:none;stroke:#1175cc;stroke-width:0.367733;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-0-0"
+       width="35"
+       height="17"
+       x="25.000002"
+       y="132.17496" />
+    <rect
+       style="fill:none;stroke:#1175cc;stroke-width:0.367733;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-0-0-61"
+       width="35"
+       height="17"
+       x="25"
+       y="162.70412" />
+    <rect
+       style="fill:none;stroke:#1175cc;stroke-width:0.367733;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-0-0-6"
+       width="35"
+       height="17"
+       x="25"
+       y="42" />
+    <rect
+       style="fill:none;stroke:#1175cc;stroke-width:0.367733;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-0-0-6-6"
+       width="35"
+       height="17"
+       x="25"
+       y="72" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'.SF NS Mono';-inkscape-font-specification:'.SF NS Mono, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#1175cc;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="42.810638"
+       y="107.30604"
+       id="text2-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan2-0-9"
+         style="fill:#000000;fill-opacity:1;stroke:#1175cc;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="42.810638"
+         y="107.30604">microprocessor</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:#1175cc;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="42.810638"
+         y="111.71575"
+         id="tspan6">instructions</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:#1175cc;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="42.810638"
+         y="116.12547"
+         id="tspan3-1-5">(.hex file)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'.SF NS Mono';-inkscape-font-specification:'.SF NS Mono, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#11ae18;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+       x="42"
+       y="141.17496"
+       id="text2-5-6-0"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none"
+         x="42"
+         y="141.17496"
+         id="tspan3-3-2-0">bootloader</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'.SF NS Mono';-inkscape-font-specification:'.SF NS Mono, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+       x="47"
+       y="67"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="text-align:start;text-anchor:start;stroke-width:0"
+         x="47"
+         y="67">1. Pre-process</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'.SF NS Mono';-inkscape-font-specification:'.SF NS Mono, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+       x="47"
+       y="97"
+       id="text5-7"><tspan
+         sodipodi:role="line"
+         id="tspan5-5"
+         style="text-align:start;text-anchor:start;stroke-width:0"
+         x="47"
+         y="97">2. Compile</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'.SF NS Mono';-inkscape-font-specification:'.SF NS Mono, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+       x="46.764011"
+       y="126.94832"
+       id="text5-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan5-5-4"
+         style="text-align:start;text-anchor:start;stroke-width:0"
+         x="46.764011"
+         y="126.94832">3. Write to bootloader </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;font-family:'.SF NS Mono';-inkscape-font-specification:'.SF NS Mono, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+       x="64.288254"
+       y="157.96555"
+       id="text5-7-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan5-5-4-8"
+         style="stroke-width:0"
+         x="65.378624"
+         y="157.96555">4. Reboot and run </tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+       id="path6"
+       sodipodi:type="arc"
+       sodipodi:cx="33.5"
+       sodipodi:cy="170.70412"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.4999998"
+       sodipodi:start="0.52169622"
+       sodipodi:end="0.49274078"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 35.667438,171.95 a 2.5,2.4999998 0 0 1 -3.397594,0.93052 2.5,2.4999998 0 0 1 -0.955091,-3.39077 2.5,2.4999998 0 0 1 3.383766,-0.97961 2.5,2.4999998 0 0 1 1.00408,3.37658" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+       id="path6-5"
+       sodipodi:type="arc"
+       sodipodi:cx="45.5"
+       sodipodi:cy="170.70412"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.4999998"
+       sodipodi:start="0.52169622"
+       sodipodi:end="0.49274078"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 47.667438,171.95 a 2.5,2.4999998 0 0 1 -3.397594,0.93052 2.5,2.4999998 0 0 1 -0.955091,-3.39077 2.5,2.4999998 0 0 1 3.383766,-0.97961 2.5,2.4999998 0 0 1 1.00408,3.37658" />
+    <path
+       style="fill:#55d400;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+       id="path6-4"
+       sodipodi:type="arc"
+       sodipodi:cx="39.5"
+       sodipodi:cy="170.70412"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.4999998"
+       sodipodi:start="0.52169622"
+       sodipodi:end="0.49274078"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 41.667438,171.95 a 2.5,2.4999998 0 0 1 -3.397594,0.93052 2.5,2.4999998 0 0 1 -0.955091,-3.39077 2.5,2.4999998 0 0 1 3.383766,-0.97961 2.5,2.4999998 0 0 1 1.00408,3.37658" />
+    <path
+       style="fill:#55d400;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none"
+       id="path6-5-9"
+       sodipodi:type="arc"
+       sodipodi:cx="51.5"
+       sodipodi:cy="170.70412"
+       sodipodi:rx="2.5"
+       sodipodi:ry="2.4999998"
+       sodipodi:start="0.52169622"
+       sodipodi:end="0.49274078"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 53.667438,171.95 a 2.5,2.4999998 0 0 1 -3.397594,0.93052 2.5,2.4999998 0 0 1 -0.955091,-3.39077 2.5,2.4999998 0 0 1 3.383766,-0.97961 2.5,2.4999998 0 0 1 1.00408,3.37658" />
+    <path
+       style="fill:#55d400;fill-opacity:1;stroke:#1175cc;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 42.499999,59 0,9.999998"
+       id="path9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#55d400;fill-opacity:1;stroke:#1175cc;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-2)"
+       d="m 42.499999,89.279188 v 9.999998"
+       id="path9-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#55d400;fill-opacity:1;stroke:#1175cc;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-2-4)"
+       d="m 42.499999,119.14598 v 10.00006"
+       id="path9-7-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#55d400;fill-opacity:1;stroke:#1175cc;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ConcaveTriangle-2-4-4)"
+       d="M 42.499999,149.52914 V 159.5292"
+       id="path9-7-2-5"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
